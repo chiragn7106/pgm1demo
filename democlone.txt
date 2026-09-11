@@ -1,0 +1,2 @@
+data before cloning and changing
+second line
